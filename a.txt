@@ -4,3 +4,4 @@ new change in main branch
 new change for new feature (conflict part)
 new change2 in main branch (slightly different no pull request)
 Change for part3 in feature branch
+change for part3 in main
